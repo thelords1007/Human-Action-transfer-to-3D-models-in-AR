@@ -15,4 +15,8 @@ For the project, we have ***android studio*** as the software which manipulates 
 5. We have used *Java* to create and edit classes in the project. For the project, we have used two classes, namely MainActivity.java and ModelLoader.java. ModelLoader is used to load the model from the file and set renderable to it. A Renderable is a 3D model and consists of vertices, materials, textures, and more.
 
 Final working of App Demo can be seen in following short video:
-https://user-images.githubusercontent.com/64301737/153260881-363b50f8-9717-4366-846a-c518e4bac352.mp4
+
+
+https://user-images.githubusercontent.com/64301737/153262113-8e2bf0a3-312d-47ad-ae1e-802e873ed2f7.mp4
+
+
